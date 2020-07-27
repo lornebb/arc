@@ -9,3 +9,4 @@ The initial aim with Arc Test Build is to try out a bunch of different live vide
 - Easy to stream from the user side.
 - Easy to stream from the teacher side.
 - Chat function during class hours.
+- audio streaming service with sync play on all devices - if possible
